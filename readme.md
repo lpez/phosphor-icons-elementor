@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   
-    <img src="https://github.com/phosphor-icons/homepage/raw/master/meta/phosphor-mark-tight-yellow.png" alt="Phosphor Icons">
+  <img src="https://github.com/phosphor-icons/homepage/raw/master/meta/phosphor-mark-tight-yellow.png" alt="Phosphor Icons">
   
 
   <h3 align="center">Phosphor Icons for Elementor Pro</h3>
